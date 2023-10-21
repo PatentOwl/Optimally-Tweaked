@@ -25,9 +25,5 @@ Q: Why does my PC perform worse with these mods than without?
 
 A: A mod like Sodium uses modern Rendering Techniques. Your computer might not support these. Try removing it and mods dependend on it.
 
-Q: What is the "Selfskins" folder in ".minecraft" for?
-
-A: This is a personal folder i use combined with the mod "Selfskin" to get my skin working as I cant get it to work otherwise.
-
 More Questions?
 Visit my Discord: https://discord.gg/BhpDScYM8e
