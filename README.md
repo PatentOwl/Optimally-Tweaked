@@ -1,6 +1,6 @@
 ## OptimallyTweaked is a minecraft fabric modpack, with the purrfect balance between performance and little tweaks adding falling leaves, a nice blur, connected textures, up to 3x the performance and way more!
 
-Im open to more tweaks at any time in https://github.com/PatentOwl/Optimally-Tweaked/pulls
+Im open to more tweaks at any time in [Pulls](https://github.com/PatentOwl/Optimally-Tweaked/pulls)
 
 >*Some mods included are: [Blur](https://modrinth.com/mod/blur-fabric),
 [Falling Leaves](https://modrinth.com/mod/fallingleaves),
@@ -40,4 +40,4 @@ Q: Why does my PC perform worse with these mods than without?
 
 A: A mod like Sodium uses modern Rendering Techniques. Your computer might not support these. Try removing it and mods dependend on it.
 
-## More Questions? Visit my Discord: https://discord.gg/BhpDScYM8e
+## More Questions? Visit my [Discord](https://discord.gg/BhpDScYM8e)
